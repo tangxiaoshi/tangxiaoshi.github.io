@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangxiaoshi.me/"/>
-  <updated>2019-05-10T07:22:48.225Z</updated>
+  <updated>2019-05-18T15:09:12.068Z</updated>
   <id>http://tangxiaoshi.me/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://tangxiaoshi.me/2019/05/10/hello-world/"/>
-    <id>http://tangxiaoshi.me/2019/05/10/hello-world/</id>
+    <title>长恨歌</title>
+    <link href="http://tangxiaoshi.me/2019/05/10/chang-hen-ge/"/>
+    <id>http://tangxiaoshi.me/2019/05/10/chang-hen-ge/</id>
     <published>2019-05-10T07:22:48.225Z</published>
-    <updated>2019-05-10T07:22:48.225Z</updated>
+    <updated>2019-05-18T15:09:12.068Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,120 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;唐·白居易&lt;/p&gt;
+&lt;p&gt;汉皇重色思倾国，御宇多年求不得。&lt;/p&gt;
+&lt;p&gt;杨家有女初长成，养在深闺人未识。&lt;/p&gt;
+&lt;p&gt;天生丽质难自弃，一朝选在君王侧。&lt;/p&gt;
+&lt;p&gt;回眸一笑百媚生，六宫粉黛无颜色。&lt;/p&gt;
+&lt;p&gt;春寒赐浴华清池，温泉水滑洗凝脂。&lt;/p&gt;
+&lt;p&gt;侍儿扶起
         
       
     
     </summary>
     
+      <category term="唐" scheme="http://tangxiaoshi.me/categories/%E5%94%90/"/>
+    
+      <category term="白居易" scheme="http://tangxiaoshi.me/categories/%E5%94%90/%E7%99%BD%E5%B1%85%E6%98%93/"/>
+    
+    
+      <category term="诗乐" scheme="http://tangxiaoshi.me/tags/%E8%AF%97%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>将进酒</title>
+    <link href="http://tangxiaoshi.me/2019/05/10/jiang-jin-jiu/"/>
+    <id>http://tangxiaoshi.me/2019/05/10/jiang-jin-jiu/</id>
+    <published>2019-05-10T07:22:48.225Z</published>
+    <updated>2019-05-18T15:08:14.969Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;唐·李白&lt;/p&gt;
+&lt;p&gt;君不见，黄河之水天上来，奔流到海不复回。&lt;/p&gt;
+&lt;p&gt;君不见，高堂明镜悲白发，朝如青丝暮成。&lt;/p&gt;
+&lt;p&gt;人生得意须尽，莫使金樽空对月。&lt;/p&gt;
+&lt;p&gt;天生我材必有用，千金散尽还复来。&lt;/p&gt;
+&lt;p&gt;烹羊宰牛且为乐，会须一饮三百杯。&lt;/p&gt;
+&lt;p
+        
+      
+    
+    </summary>
+    
+      <category term="唐" scheme="http://tangxiaoshi.me/categories/%E5%94%90/"/>
+    
+      <category term="李白" scheme="http://tangxiaoshi.me/categories/%E5%94%90/%E6%9D%8E%E7%99%BD/"/>
+    
+    
+      <category term="诗乐" scheme="http://tangxiaoshi.me/tags/%E8%AF%97%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>琵琶行</title>
+    <link href="http://tangxiaoshi.me/2019/05/10/pi-pa-xing/"/>
+    <id>http://tangxiaoshi.me/2019/05/10/pi-pa-xing/</id>
+    <published>2019-05-10T07:22:48.225Z</published>
+    <updated>2019-05-18T15:08:43.417Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;唐·白居易&lt;/p&gt;
+&lt;p&gt;浔阳江头夜送客，枫叶荻花秋瑟瑟。&lt;/p&gt;
+&lt;p&gt;主人下马客在船，举酒欲饮无管弦。&lt;/p&gt;
+&lt;p&gt;醉不成欢惨将别，别时茫茫江浸月。&lt;/p&gt;
+&lt;p&gt;忽闻水上琵琶声，主人忘归客不发。&lt;/p&gt;
+&lt;p&gt;寻声暗问弹者谁，琵琶声停欲语迟。&lt;/p&gt;
+&lt;p&gt;移船相近
+        
+      
+    
+    </summary>
+    
+      <category term="唐" scheme="http://tangxiaoshi.me/categories/%E5%94%90/"/>
+    
+      <category term="白居易" scheme="http://tangxiaoshi.me/categories/%E5%94%90/%E7%99%BD%E5%B1%85%E6%98%93/"/>
+    
+    
+      <category term="诗乐" scheme="http://tangxiaoshi.me/tags/%E8%AF%97%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苔</title>
+    <link href="http://tangxiaoshi.me/2019/05/10/tai/"/>
+    <id>http://tangxiaoshi.me/2019/05/10/tai/</id>
+    <published>2019-05-10T07:22:48.225Z</published>
+    <updated>2019-05-18T14:54:35.664Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;清·袁枚&lt;/p&gt;
+&lt;h2 id=&quot;其一&quot;&gt;&lt;a href=&quot;#其一&quot; class=&quot;headerlink&quot; title=&quot;其一&quot;&gt;&lt;/a&gt;其一&lt;/h2&gt;&lt;p&gt;白日不到处，青春恰自来。&lt;br&gt;苔花如米小，亦学牡丹开。（“亦”可写成“也”）&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="清" scheme="http://tangxiaoshi.me/categories/%E6%B8%85/"/>
+    
+    
+      <category term="诗乐" scheme="http://tangxiaoshi.me/tags/%E8%AF%97%E4%B9%90/"/>
     
   </entry>
   
