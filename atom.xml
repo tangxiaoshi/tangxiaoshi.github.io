@@ -5,9 +5,9 @@
   <subtitle>唐小诗</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.tangxiaoshi.me/"/>
+  <link href="http://tangxiaoshi.me/"/>
   <updated>2019-05-10T07:22:48.225Z</updated>
-  <id>http://www.tangxiaoshi.me/</id>
+  <id>http://tangxiaoshi.me/</id>
   
   <author>
     <name>唐小诗</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.tangxiaoshi.me/2019/05/10/hello-world/"/>
-    <id>http://www.tangxiaoshi.me/2019/05/10/hello-world/</id>
+    <link href="http://tangxiaoshi.me/2019/05/10/hello-world/"/>
+    <id>http://tangxiaoshi.me/2019/05/10/hello-world/</id>
     <published>2019-05-10T07:22:48.225Z</published>
     <updated>2019-05-10T07:22:48.225Z</updated>
     
