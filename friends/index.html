@@ -263,6 +263,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 <style>
     .friends-container {
         margin-top: -100px;
+        margin-bottom: 30px;
     }
 
     .frind-ship img {
@@ -437,11 +438,19 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
 <main class="content">
     <div class="container friends-container">
-        <article>
+        <article id="friends-link">
             
         </article>
     </div>
 </main>
+
+<script>
+$(function () {
+    $('#friends-link').masonry({
+        itemSelector: '.friend-div'
+    });
+});
+</script>
 <footer class="page-footer bg-color">
     <div class="container row center-align">
         <div class="col s12 m8 l8 copy-right">
